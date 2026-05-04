@@ -45,7 +45,7 @@ setup(
     install_requires=[
         "pyee~=11.1.0",
         "websockets~=12.0",
-        "requests~=2.32.3",
+        "requests~=2.33.1",
     ],
     extras_require={
         "typing": [
